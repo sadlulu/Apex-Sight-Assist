@@ -5,7 +5,9 @@ Made by Stone Luo
 
 Credit to [@TheCruZ](https://www.unknowncheats.me/forum/members/1117395.html) for original EFI source code.
 
+
 Compatible with: Steam and Origin
+
 
 Usage:
 
@@ -17,4 +19,15 @@ Change color spectrum for difference enemies, according to the enemy's shield le
 
 Spectator count: tells how many people are spectating you even in rank
 
-Changes 
+
+Change logs:
+
+
+Release 1: season 7 offset updated
+
+Improved aim assist
+
+
+Release 2: season 8 offset updated
+
+EAC got updated, they seem to detect it. DO NOT USE for now.
