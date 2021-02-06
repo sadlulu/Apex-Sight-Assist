@@ -25,9 +25,8 @@ Change logs:
 
 Release 1: season 7 offset updated
 
-Improved aim assist
-
-
+Improved aim assist__
+__
 Release 2: season 8 offset updated
 
 EAC got updated, they seem to detect it. DO NOT USE for now.
