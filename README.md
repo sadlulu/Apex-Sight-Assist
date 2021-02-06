@@ -17,6 +17,7 @@ Change color spectrum for difference enemies, according to the enemy's shield le
 
 Spectator count: tells how many people are spectating you even in rank
 \
+\
 Change logs:
 \
 Release 1: season 7 offset updated
