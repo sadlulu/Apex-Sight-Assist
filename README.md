@@ -8,7 +8,7 @@ Made by Stone Luo
 Credit to [@TheCruZ](https://www.unknowncheats.me/forum/members/1117395.html) for original EFI source code.
 \
 \
-***There is a GPL 3.0 License, so DO NOT do illegal things like selling it!***
+***There is a GPL 3.0 License, so DO NOT do illegal things like selling it!!!***
 \
 \
 **[Video Showcase](https://youtu.be/u4Dmnn4py4g)**
