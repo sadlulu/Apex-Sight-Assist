@@ -2,7 +2,7 @@
 **Apex legend assist**
 \
 \
-Made by Stone Luo
+Made by Sad Lulu
 \
 \
 Credit to [@TheCruZ](https://www.unknowncheats.me/forum/members/1117395.html) for original EFI source code.
